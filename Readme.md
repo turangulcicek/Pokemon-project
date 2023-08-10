@@ -1,6 +1,6 @@
 # Pokemon Project
 
--lists all pokemons by fetching data from Api
+-lists all pokemons by fetching data from Api <br>
 -enables users to saerch for any pokemon by their names.
 
 ## Sources
@@ -9,8 +9,8 @@
 
 ### Technologies in this project
 
--Html
--CSS
+-Html <br>
+-CSS<br>
 -Javascript
 
 `Preview`
